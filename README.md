@@ -2,7 +2,7 @@
 <!-- ═══════════════ 技术栈 ═══════════════ -->
 **语言 & 框架** 
 <p>
-  <img height="40" src="https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,react,vue" alt="TypeScript" />
+  <img height="40" src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,vue" alt="TypeScript" />
 </p> 
 
 **构建工具**  
