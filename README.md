@@ -16,14 +16,8 @@
 ## 🛠️ 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs,vite,webpack" alt="TypeScript" />
-</p>
-
-**前端 & 语言**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,vite" alt="frontend stack" />
-</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs,vite,webpack,nginx" alt="TypeScript" />
+</p> 
 
 **后端 & AI & 工具**
 
