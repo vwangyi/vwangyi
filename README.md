@@ -2,12 +2,12 @@
 <!-- ═══════════════ 技术栈 ═══════════════ -->
 **语言 & 框架** 
 <p>
-  <img height="40" src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs" alt="TypeScript" />
+  <img height="40" src="https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,react,vue" alt="TypeScript" />
 </p> 
 
 **构建工具**  
 <p>
-  <img height="40" src="https://skillicons.dev/icons?i=webpack,rollup,vitejs" alt="TypeScript" />
+  <img height="40" src="https://skillicons.dev/icons?i=webpack,rollup,vite" alt="TypeScript" />
 </p> 
     <!-- <img width="40" height="40" src="https://webpack.docschina.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" alt="webpack" />  <img width="40" height="40" src="https://rollup.docschina.org/rollup-logo.svg" alt="rollup" />  
     <img width="40" height="40" src="https://esbuild.node.org.cn/favicon.svg" alt="esbuild" />  <img width="40" height="40" src="https://rolldown.rs/assets/rolldown-light.Su7w3UUn.svg" alt="rolldown" /> <img width="40" height="40" src="https://rollup.docschina.org/vitejs-logo.svg" alt="vitejs" />    -->
