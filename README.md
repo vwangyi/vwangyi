@@ -17,7 +17,7 @@
 
 **语言 & 框架** 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs,vite,webpack,rollup,rolldown,esbuild,mysql,redis" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs,vite,webpack,rollup,mysql,redis,rolldown,esbuild" alt="TypeScript" />
 </p> 
 
 **AI 生态**
