@@ -22,14 +22,13 @@
     <img width="40" height="40" src="https://esbuild.node.org.cn/favicon.svg" alt="esbuild" />  <img width="40" height="40" src="https://rolldown.rs/assets/rolldown-light.Su7w3UUn.svg" alt="rolldown" /> <img width="40" height="40" src="https://rollup.docschina.org/vitejs-logo.svg" alt="vitejs" />    -->
 
 **数据库**  
-<p>
+<picture>
   <img 
     height="40" 
     src="https://skillicons.dev/icons?i=mysql,redis" 
     alt="mysql,redis" 
-    style="pointer-events: none; user-select: none;"
   />
-</p> 
+</picture>
 <!-- 
 **AI 生态**
 <p>
