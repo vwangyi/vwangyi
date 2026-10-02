@@ -1,23 +1,21 @@
 
 <!-- ═══════════════ 技术栈 ═══════════════ -->
 **语言 & 框架** 
-<p>
+<picture>
   <img 
     height="40" 
     src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,vue,electron" alt="ts,js,nodejs,nestjs,react,vue,electron" 
-    style="pointer-events: none; user-select: none;"
   />
-</p> 
+</picture> 
 
 **构建工具 & 工具链**  
-<p>
+<picture>
   <img 
     height="40" 
     src="https://skillicons.dev/icons?i=webpack,rollup,vite,babel" 
     alt="webpack,rollup,vite,babel" 
-    style="pointer-events: none; user-select: none;"
   />
-</p> 
+</picture> 
     <!-- <img width="40" height="40" src="https://webpack.docschina.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" alt="webpack" />  <img width="40" height="40" src="https://rollup.docschina.org/rollup-logo.svg" alt="rollup" />  
     <img width="40" height="40" src="https://esbuild.node.org.cn/favicon.svg" alt="esbuild" />  <img width="40" height="40" src="https://rolldown.rs/assets/rolldown-light.Su7w3UUn.svg" alt="rolldown" /> <img width="40" height="40" src="https://rollup.docschina.org/vitejs-logo.svg" alt="vitejs" />    -->
 
