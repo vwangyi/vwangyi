@@ -18,8 +18,8 @@
 **语言 & 框架** 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs,vite,webpack,rollup,mysql,redis,rolldown,esbuild" alt="TypeScript" />
-  <img src="https://esbuild.node.org.cn/favicon.svg" alt="esbuild" />  
-  <img src="https://rolldown.rs/assets/rolldown-light.Su7w3UUn.svg" alt="rolldown" />  
+  <img width="300" height="300" src="https://esbuild.node.org.cn/favicon.svg" alt="esbuild" />  
+  <img width="300" height="300" src="https://rolldown.rs/assets/rolldown-light.Su7w3UUn.svg" alt="rolldown" />  
 </p> 
 
 **AI 生态**
