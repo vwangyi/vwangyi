@@ -16,7 +16,7 @@
 ## 🛠️ 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs,vite" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs,vite,webpack" alt="TypeScript" />
 </p>
 
 **前端 & 语言**
