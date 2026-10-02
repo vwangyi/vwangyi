@@ -1,20 +1,19 @@
 
 <!-- ═══════════════ 技术栈 ═══════════════ -->
-## 🛠️ 技术栈
-
 **语言 & 框架** 
 <p>
   <img height="40" src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs" alt="TypeScript" />
 </p> 
 
 **构建工具**  
-  <img width="40" height="40" src="https://esbuild.node.org.cn/favicon.svg" alt="esbuild" />  <img width="40" height="40" src="https://rolldown.rs/assets/rolldown-light.Su7w3UUn.svg" alt="rolldown" />  <img width="40" height="40" src="https://webpack.docschina.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" alt="webpack" />  <img width="40" height="40" src="https://rollup.docschina.org/rollup-logo.svg" alt="rollup" />  <img width="40" height="40" src="https://rollup.docschina.org/vitejs-logo.svg" alt="vitejs" />   
+    <img width="40" height="40" src="https://webpack.docschina.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" alt="webpack" />  <img width="40" height="40" src="https://rollup.docschina.org/rollup-logo.svg" alt="rollup" />  
+    <img width="40" height="40" src="https://esbuild.node.org.cn/favicon.svg" alt="esbuild" />  <img width="40" height="40" src="https://rolldown.rs/assets/rolldown-light.Su7w3UUn.svg" alt="rolldown" /> <img width="40" height="40" src="https://rollup.docschina.org/vitejs-logo.svg" alt="vitejs" />   
 
 **数据库**  
 <p>
   <img height="40" src="https://skillicons.dev/icons?i=mysql,redis" alt="TypeScript" />
 </p> 
-
+<!-- 
 **AI 生态**
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -23,6 +22,5 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-
----
+</p> -->
+<!-- --- -->
