@@ -15,18 +15,12 @@
 <!-- ═══════════════ 技术栈 ═══════════════ -->
 ## 🛠️ 技术栈
 
+**语言 & 框架** 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs,vite,webpack,nginx" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vue,nestjs,vite,webpack" alt="TypeScript" />
 </p> 
 
-**后端 & AI & 工具**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,pytorch,tensorflow,docker,git,mysql,redis,linux" alt="backend & ai stack" />
-</p>
-
 **AI 生态**
-
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
