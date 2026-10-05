@@ -5,7 +5,7 @@
 <picture>
   <img 
     height="40" 
-    src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,vue,electron,nextjs" alt="ts,js,nodejs,nestjs,react,vue,electron,nextjs" 
+    src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,vue,electron,nextjs,nuxtjs" 
   />
 </picture> 
 </p>
