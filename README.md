@@ -5,7 +5,7 @@
 <picture>
   <img 
     height="40" 
-    src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,vue,electron" alt="ts,js,nodejs,nestjs,react,vue,electron,nuxt" 
+    src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,vue,electron,nextjs" alt="ts,js,nodejs,nestjs,react,vue,electron,nextjs" 
   />
 </picture> 
 </p>
@@ -15,7 +15,7 @@
 <picture>
   <img 
     height="40" 
-    src="https://skillicons.dev/icons?i=webpack,rollup,vite,babel" 
+    src="https://skillicons.dev/icons?i=webpack,rollup,vite,babel,eslint,prettier" 
     alt="webpack,rollup,vite,babel,eslint,prettier" 
   />
 </picture> 
