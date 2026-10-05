@@ -1,11 +1,10 @@
-
-<!-- ═══════════════ 技术栈 ═══════════════ -->
+<!-- https://github.com/tandpfun/skill-icons#readme -->
 **语言 & 框架** 
 <p>
 <picture>
   <img 
     height="40" 
-    src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,vue,electron,nextjs,nuxtjs" 
+    src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,vue,nuxtjs,electron" 
   />
 </picture> 
 </p>
@@ -16,7 +15,6 @@
   <img 
     height="40" 
     src="https://skillicons.dev/icons?i=webpack,rollup,vite,babel,eslint,prettier" 
-    alt="webpack,rollup,vite,babel,eslint,prettier" 
   />
 </picture> 
 </p>
@@ -29,7 +27,6 @@
   <img 
     height="40" 
     src="https://skillicons.dev/icons?i=mysql,redis" 
-    alt="mysql,redis" 
   />
 </picture>
 </p>
