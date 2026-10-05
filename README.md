@@ -16,7 +16,7 @@
   <img 
     height="40" 
     src="https://skillicons.dev/icons?i=webpack,rollup,vite,babel" 
-    alt="webpack,rollup,vite,babel" 
+    alt="webpack,rollup,vite,babel,eslint,prettier" 
   />
 </picture> 
 </p>
