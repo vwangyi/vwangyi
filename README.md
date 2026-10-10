@@ -14,7 +14,7 @@
 <picture>
   <img 
     height="40" 
-    src="https://skillicons.dev/icons?i=webpack,rollup,vite,babel,eslint,prettier" 
+    src="https://skillicons.dev/icons?i=webpack,rollup,vite,babel,swc" 
   />
 </picture> 
 </p>
