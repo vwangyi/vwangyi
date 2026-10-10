@@ -1,4 +1,6 @@
 <!-- https://github.com/tandpfun/skill-icons#readme -->
+*在如今 Vibe Coding 盛行的时代，依然热爱古法编程，成为一名专业的前端技术专家。*
+
 **语言 & 框架** 
 <p>
 <picture>
