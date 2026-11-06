@@ -1,5 +1,5 @@
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-*在这个 VibeCoding 盛行的时代，依然热爱古法编程，成为一名专业的前端技术专家。*
+*古法编程是底层能力，VibeCoding是提升效率和速度，两者结合才是质量和速度的合理姿态。*
 
 **语言 & 框架** 
 <p>
